@@ -1,3 +1,3 @@
 # hello-world
-# from Kurt Nesbitt
+# from Kurt
 # I'm making more changes to the things...
